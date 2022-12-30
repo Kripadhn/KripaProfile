@@ -2,7 +2,7 @@
 date: '1'
 title: 'Caim Consulting'
 cover: 'demo1.png'
-github: 'https://github.com/caimconsulting/caim-consulting-website'
+github: ''
 external: 'https://caimconsulting.in/'
 tech:
   - HTML

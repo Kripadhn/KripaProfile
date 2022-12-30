@@ -1,12 +1,12 @@
 ---
-date: '2019-05-10'
-title: 'Systems Intern'
-company: 'CCL'
-range: 'May - June 2019'
-url: 'http://www.centralcoalfields.in/ind/'
+date: '2017-11-10'
+title: 'Senior Technical Lead'
+company: 'Tata Technologies (Subsidiary of Tata Motors)'
+range: 'Nov 2017 - June 2021'
+url: 'https://www.tatatechnologies.com/in'
 ---
 
-- Project on developing a fully working dynamic eCommerce website using PHP and MySQL.
+- Project on developing a fully working dynamic eCommerce website using .Net and Azure.
 - Prepared a complete report about the specifications and working of the software.
-- View [PROJECT REPORT](https://drive.google.com/file/d/1Cn6gxJ1UYpcdz97FivBBp-SsXiVbgg5-/view?usp=sharing) and [CERTIFICATE](https://drive.google.com/file/d/1R1in-IgfDj9qx9btWEeA_9Ob3db-54_c/view?usp=sharing)
-- Certified in Azure Fundamentals, Azure Cloud Solution Architect Expert (https://drive.google.com/file/d/133QWdIhw9KI0YMKs1SPI_6VQ1ENtMiCe/view?usp=sharing)
+- View [PROJECT REPORT](https://drive.google.com/file/) and [CERTIFICATE](https://drive.google.com/file/)
+- Certified in Azure Fundamentals, Azure Cloud Solution Architect Expert (https://drive.google.com/)
