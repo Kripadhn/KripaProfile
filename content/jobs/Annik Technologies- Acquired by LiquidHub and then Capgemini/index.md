@@ -1,9 +1,9 @@
 ---
-date: '2018-05-10'
-title: 'Research Intern'
-company: 'XLRI'
-range: 'May - June 2018'
-url: 'https://www.xlri.ac.in/'
+date: '2012-05-10'
+title: 'Lead Developer'
+company: 'Annik Technologies ( Acquired by Capgemini)'
+range: 'May 2012- Jan 2015'
+url: ''
 ---
 
 - Meta analysis and a literature review on the topics 'Knowledge Hiding', 'Ethical Leadership', 'Ethical Culture', 'Ethical Climate' and 'Unethical Behaviour'.
